@@ -1,0 +1,5 @@
+header {
+padding: 20 px 0;
+background: repeating-linear-gradient(45deg, #133f43, #133f43 20px, #1045a 20px, #1045a 40px);
+box-shadow: 0 4px 6px rgba(0,0,0,.2);
+}
